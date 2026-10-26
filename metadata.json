@@ -1,0 +1,6 @@
+{
+  "name": "DeadlockLens",
+  "description": "Interactive operating system Resource Allocation Graph (RAG) simulator and deadlock detection workbench featuring three-color DFS cycle detection, Kahn's topological sort, and Banker's multi-instance verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
